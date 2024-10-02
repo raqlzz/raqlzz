@@ -1,22 +1,24 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d553f333-8739-4551-a8e1-0e1d8f7a9b48"/>
 <br>
-<br> 
+<br>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway+&size=25&pause=1000&color=704214&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&height=60&lines=+++++Ol%C3%A1%2C+me+chamo+Raquel+Alves!;Desenvolvedora+beckend+java)](https://git.io/typing-svg)
 
+</div>
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raqlzz&theme=calm&hide_border=true&border_radius=6.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 </div>
 
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<a href="https://www.linkedin.com/in/raquel-alvesl/" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/805238a3-80d7-4b3e-b252-7d370f530821">
 </a>
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
@@ -117,6 +119,7 @@
 
 
 
+![linkedin](https://github.com/user-attachments/assets/805238a3-80d7-4b3e-b252-7d370f530821)
 
 
 
