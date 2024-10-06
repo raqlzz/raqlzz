@@ -35,7 +35,6 @@
 
 
 
-![linkedin](https://github.com/user-attachments/assets/805238a3-80d7-4b3e-b252-7d370f530821)
 
 
 
