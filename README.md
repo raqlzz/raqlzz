@@ -15,7 +15,6 @@
 
 </div>
 
-/*
 <div align="center"> 
 <a href="https://www.linkedin.com/in/raquel-alvesl/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/805238a3-80d7-4b3e-b252-7d370f530821">
