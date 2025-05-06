@@ -9,21 +9,7 @@
 <br>
 <br>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raqlzz&theme=calm&hide_border=true&border_radius=6.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/raquel-alvesl/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/805238a3-80d7-4b3e-b252-7d370f530821">
-</a>
-
-
-<a href="mailto:cmp.1a.developperraquel@gmail.com">
-    <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
 
 
 
